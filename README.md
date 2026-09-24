@@ -10,7 +10,7 @@ Ce travail part des exercices du module *Gestion de projet et ordonnancement* (E
 |---|---|---|---|
 | [01_phase_de_groupes](notebooks/01_phase_de_groupes.ipynb) | 4 équipes, chacune se rencontre une fois, 3 journées | 36 variables | **6** calendriers (liste complète) |
 | [02_aller_retour](notebooks/02_aller_retour.ipynb) | 4 équipes, aller-retour sur 6 journées, pas de double match à domicile ou à l'extérieur sur les journées (1,2), (3,4), (5,6) | 72 variables | **96** calendriers (liste complète, vérifiée par force brute) |
-| [03_championnat_16_equipes](notebooks/03_championnat_16_equipes.ipynb) | Championnat à 16 équipes, 30 journées, aller puis retour, jamais plus de 2 matchs de suite au même endroit | 7 200 variables | calendriers valides trouvés en ~2 min chacun ; **528** solutions sur le cas réduit à 4 équipes |
+| [03_championnat_16_equipes](notebooks/03_championnat_16_equipes.ipynb) | Championnat à 16 équipes, 30 journées, aller puis retour, jamais plus de 2 matchs de suite au même endroit | 7 200 variables | calendriers valides trouvés en ~2 min chacun  |
 
 ## Modélisation (championnat à 16 équipes)
 
